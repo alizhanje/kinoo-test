@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<activity id="WOT">
+
+    <activityIntro>
+        <sequence id="seq_Intro"/>
+    </activityIntro>
+    <activityOutro>
+        <sequence id="seq_Outro"/>
+    </activityOutro>
+
+    <inputs>
+        <input id="DumpTruck">
+            <sequence id="seq_INP_DumpTruck"/>
+        </input>
+        <input id="FireTruck">
+            <sequence id="seq_INP_FireTruck"/>
+        </input>
+        <input id="GarbageTruck">
+            <sequence id="seq_INP_GarbageTruck"/>
+        </input>
+    </inputs>
+
+    <questionSets>
+        <questionSet id="QS01">	
+            <question id="Q01">
+                <prompt>
+                    <sequence id="seq_Q1"/>
+                </prompt>
+                
+
+                <answer inputId="DumpTruck">
+                    <sequence id="seq_SFX_Correct"/>
+                    <sequence id="seq_ANS_DumpTruck"/>
+                </answer>
+                <answer inputId="GarbageTruck">
+                    <sequence id="seq_SFX_Incorrect"/>
+                    <sequence id="seq_ANS_GarbageTruck"/>
+                </answer>
+                <answer inputId="FireTruck">
+                        <sequence id="seq_SFX_Incorrect"/>
+                        <sequence id="seq_ANS_FireTruck"/>
+                </answer>
+            </question>
+        </questionSet>
+    </questionSets>
+</activity>

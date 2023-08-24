@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assetManifest>
+  <audio id="audio_SFX_Thinking" file="Thinking.wv"/>
+  <audio id="audio_SFX_Positive" file="Positive.wv"/>
+  <audio id="audio_SFX_Negative" file="Negative.wv"/>
+  <audio id="audio_COR_Correct" file="Correct.wv"/>
+  <audio id="audio_INCOR_Incorrect" file="Incorrect.wv"/>
+  <audio id="audio_INTRO_Hello" file="Hello.wv"/>
+  <audio id="audio_INTRO_Welcome" file="Welcome.wv"/>
+  <audio id="audio_INTRO_AreYouReady" file="AreYouReady.wv"/> 
+  <audio id="audio_INTRO_BuckleUp" file="BuckleUp.wv"/>
+  <audio id="audio_Q_WhatIsLargest" file="WhatIsLargest.wv"/>
+  <audio id="audio_Q_WhatPutsOutFires" file="WhatPutsOutFires.wv"/>
+  <audio id="audio_Q_WhatPicksUpTrash" file="WhatPicksUpTrash.wv"/>
+  <audio id="audio_INFO_LargestTruck" file="LargestTruck.wv"/>
+  <audio id="audio_INFO_FireTruckPutsOutFires" file="FireTruckPutsOutFires.wv"/>
+  <audio id="audio_INFO_GarbageTruckPicksUpTrash" file="GarbageTruckPicksUpTrash.wv"/>
+  <audio id="audio_ANS_DumpTruck" file="DumpTruck.wv"/>
+  <audio id="audio_ANS_FireTruck" file="FireTruck.wv"/>
+  <audio id="audio_ANS_GarbageTruck" file="GarbageTruck.wv"/>
+  <audio id="audio_OUTRO_TruckExperts" file="TruckeExpoerts.wv"/>
+  <audio id="audio_OUTRO_CompletedTruckTrivia" file="CompletedTruckeTrivia.wv"/>
+  <audio id="audio_OUTRO_KeepExploring" file="KeepExploring.wv"/> 
+  <audio id="audio_OUTRO_KeepTrucking" file="KeepTrucking.wv"/>
+</assetManifest>

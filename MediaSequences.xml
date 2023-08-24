@@ -1,0 +1,88 @@
+<sequences>
+
+    <sequence id="seq_BlankSequence">
+    </sequence>
+    
+    <sequence id="seq_ShortWait">
+        <wait ms="10"/>
+    </sequence>
+    
+    <sequence id="seq_Correct">
+        <media audioId="audio_SFX_Positive"/>
+        <media audioId="audio_COR_Correct"/>
+    </sequence>
+    
+    <sequence id="seq_Incorrect">
+        <media audioId="audio_SFX_Negative"/>
+        <media audioId="audio_INCOR_Incorrect"/>
+    </sequence>
+    
+    <sequence id="seq_Intro">
+  	<media audioId="audio_INTRO_Hello"/>
+  	<media audioId="audio_INTRO_Welcome"/>
+  	<media audioId="audio_INTRO_AreYouReady"/>
+  	<media audioId="audio_INTRO_BuckleUp"/>
+    </sequence>
+    
+    <sequence id="seq_Q1">
+        <media audioId="audio_Q1_Question1"/>
+        <media audioId="audio_Q_WhatIsLargest"/> 
+        <media audioId="audio_SFX_Thinking"/>      
+    </sequence>
+
+    <sequence id="seq_Q2">  
+        <media audioId="audio_Q2_Question2"/>
+        <media audioId="audio_Q_WhatPutsOutFires"/> 
+        <media audioId="audio_SFX_Thinking"/>       
+    </sequence>
+
+    <sequence id="seq_Q3">  
+        <media audioId="audio_Q3_Question3"/>
+        <media audioId="audio_Q_WhatPicksUpTrash"/>  
+        <media audioId="audio_SFX_Thinking"/>   
+    </sequence>
+    
+    <sequence id="seq_Info1">
+        <media audioId="audio_INFO_LargestTruck"/>
+    </sequence>
+
+    <sequence id="seq_Info2">
+        <media audioId="audio_INFO_FireTruckPutsOutFires"/>
+    </sequence>
+    
+    <sequence id="seq_Info3">
+        <media audioId="audio_INFO_GarbageTruckPicksUpTrash"/>
+    </sequence>
+    
+    <sequence id="seq_ANS_DumpTruck">
+        <media audioId="audio_ANS_DumpTruck"/>    
+    </sequence>
+    
+    <sequence id="seq_ANS_FireTruck">
+        <media audioId="audio_ANS_FireTruck"/>    
+    </sequence>
+    
+    <sequence id="seq_ANS_GarbageTruck">
+        <media audioId="audio_ANS_DeliveryTruck"/>    
+    </sequence>
+
+    <sequence id="seq_ANS_TowTruck">
+        <media audioId="audio_ANS_TowTruck"/>    
+    </sequence>
+
+    <sequence id="seq_ANS_DeliveryTruck">
+        <media audioId="audio_ANS_DeliveryTruck"/>    
+    </sequence>
+
+    <sequence id="seq_ANS_FoodTruck">
+        <media audioId="audio_ANS_FoodTruck"/>    
+    </sequence>
+
+    <sequence id="seq_Outro">
+  	<media audioId="audio_OUTRO_TruckExperts"/>
+  	<media audioId="audio_OUTRO_CompeltedTruckTrivia"/>
+  	<media audioId="audio_OUTRO_KeepExploring"/>
+  	<media audioId="audio_OUTRO_KeepTrucking"/>
+    </sequence>
+    
+</sequences>
