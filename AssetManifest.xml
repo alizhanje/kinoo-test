@@ -10,6 +10,9 @@
   <audio id="audio_INTRO_Welcome" file="Welcome.wv"/>
   <audio id="audio_INTRO_AreYouReady" file="AreYouReady.wv"/> 
   <audio id="audio_INTRO_BuckleUp" file="BuckleUp.wv"/>
+  <audio id="audio_Q1_Question1" file="Question1.wv"/>
+  <audio id="audio_Q2_Question2" file="Question2.wv"/>
+  <audio id="audio_Q3_Question3" file="Question3.wv"/>
   <audio id="audio_Q_WhatIsLargest" file="WhatIsLargest.wv"/>
   <audio id="audio_Q_WhatPutsOutFires" file="WhatPutsOutFires.wv"/>
   <audio id="audio_Q_WhatPicksUpTrash" file="WhatPicksUpTrash.wv"/>
@@ -19,7 +22,10 @@
   <audio id="audio_ANS_DumpTruck" file="DumpTruck.wv"/>
   <audio id="audio_ANS_FireTruck" file="FireTruck.wv"/>
   <audio id="audio_ANS_GarbageTruck" file="GarbageTruck.wv"/>
-  <audio id="audio_OUTRO_TruckExperts" file="TruckeExpoerts.wv"/>
+  <audio id="audio_ANS_DeliveryTruck" file="DeliveryTruck.wv"/>
+  <audio id="audio_ANS_TowTruck" file="TowTruck.wv"/>
+  <audio id="audio_ANS_FoodTruck" file="FoodTruck.wv"/>
+  <audio id="audio_OUTRO_TruckExperts" file="TruckeExperts.wv"/>
   <audio id="audio_OUTRO_CompletedTruckTrivia" file="CompletedTruckeTrivia.wv"/>
   <audio id="audio_OUTRO_KeepExploring" file="KeepExploring.wv"/> 
   <audio id="audio_OUTRO_KeepTrucking" file="KeepTrucking.wv"/>
