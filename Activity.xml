@@ -22,28 +22,28 @@
 				</prompt>
 				<answer inputId="DumpTruck">
 					<sequence id="seq_ANS_DumpTruck"/>
-					<sequence id="seq_SFX_Correct"/>
+					<sequence id="seq_Correct"/>
 					<sequence id="seq_Info1"/>
 				</answer>
 				<answer inputId="GarbageTruck">
 					<sequence id="seq_ANS_GarbageTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="FireTruck">
 					<sequence id="seq_ANS_FireTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="DeliveryTruck">
 					<sequence id="seq_ANS_DeliveryTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="TowTruck">
 					<sequence id="seq_ANS_TowTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="FoodTruck">
 					<sequence id="seq_ANS_FoodTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 			</question>
 			<question id="Q02">
@@ -52,28 +52,28 @@
 				</prompt>
 				<answer inputId="FireTruck">
 					<sequence id="seq_ANS_FireTruck"/>
-					<sequence id="seq_SFX_Correct"/>
+					<sequence id="seq_Correct"/>
 					<sequence id="seq_Info2"/>
 				</answer>
 				<answer inputId="GarbageTruck">
 					<sequence id="seq_ANS_GarbageTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="DumpTruck">
 					<sequence id="seq_ANS_DumpTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="DeliveryTruck">
 					<sequence id="seq_ANS_DeliveryTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="TowTruck">
 					<sequence id="seq_ANS_TowTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="FoodTruck">
 					<sequence id="seq_ANS_TwoTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 			</question>
 			<question id="Q03">
@@ -82,28 +82,28 @@
 				</prompt>
 				<answer inputId="GarbageTruck">
 					<sequence id="seq_ANS_GarbageTruck"/>
-					<sequence id="seq_SFX_Correct"/>
+					<sequence id="seq_Correct"/>
 					<sequence id="seq_Info3"/>
 				</answer>
 				<answer inputId="FireTruck">
 					<sequence id="seq_ANS_FireTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="DumpTruck">
 					<sequence id="seq_ANS_DumpTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="DeliveryTruck">
 					<sequence id="seq_ANS_DeliveryTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="TowTruck">
 					<sequence id="seq_ANS_TowTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 				<answer inputId="FoodTruck">
 					<sequence id="seq_ANS_FoodTruck"/>
-					<sequence id="seq_SFX_Incorrect"/>
+					<sequence id="seq_Incorrect"/>
 				</answer>
 			</question>
 		</questionSet>
